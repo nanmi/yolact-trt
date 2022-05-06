@@ -1,3 +1,0 @@
-/home/zhangbo/workspace/yolact/trt_infer1/build/CMakeFiles/yolact.dir
-/home/zhangbo/workspace/yolact/trt_infer1/build/CMakeFiles/edit_cache.dir
-/home/zhangbo/workspace/yolact/trt_infer1/build/CMakeFiles/rebuild_cache.dir
